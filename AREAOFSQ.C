@@ -1,12 +1,12 @@
 #include<stdio.h>
 #include<conio.h>
-void aos();
+int aos();
 void main()
 {
 	aos();
 	getch();
 }
-void aos()
+int aos()
 {
 	int s,aos;
 	clrscr();
